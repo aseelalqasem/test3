@@ -9,7 +9,7 @@ import SwiftUI
 import MapKit
 //bobo 511
 //Ahad test
-// bushra
+//bushra alzhrani
 struct LocationsView: View {
     
     
