@@ -10,6 +10,7 @@ import MapKit
 //bobo 511
 //Ahad test
 //bushra alzhrani
+// hi Bushra <3
 struct LocationsView: View {
     
     
